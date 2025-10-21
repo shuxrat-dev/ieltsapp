@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Writing AI Coach",
+  "description": "An AI-powered application to help users practice for the IELTS writing exam. It provides instant band score predictions, detailed criterion-based feedback, model essays, and progress tracking to help users achieve a band 9 score.",
+  "requestFramePermissions": []
+}
